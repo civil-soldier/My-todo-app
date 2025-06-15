@@ -12,7 +12,8 @@ A clean, minimal, and aesthetic Todo App built using **HTML**, **CSS**, and **Ja
 
 ## 📸 Preview
 
-(Assets/preview.png)
+![App Preview](Assets/preview.png)
+
 
 > *(Replace with a screenshot of your actual app if needed)*
 
