@@ -1,2 +1,18 @@
-# My-todo-app
-A minimal and aesthetic Todo App to help you stay organized and focused. Easily add, view, and delete tasks with a clean UI and responsive design. Built using HTML, CSS, and JavaScript.
+# 📝 Todo App
+
+A clean, minimal, and aesthetic Todo App built using **HTML**, **CSS**, and **JavaScript**. Add, view, and delete your daily tasks with a responsive and user-friendly interface, styled with a beautiful wallpaper background and modern UI elements.
+
+## ✨ Features
+
+- Add tasks with a click
+- Delete tasks instantly
+- Responsive and modern design
+- Background image for an aesthetic look
+- Sticky footer and smooth layout
+
+## 📸 Preview
+
+![App Screenshot](Assets/preview.png)
+
+> *(Replace with a screenshot of your actual app if needed)*
+
